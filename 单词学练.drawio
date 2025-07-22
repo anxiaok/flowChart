@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36" version="28.0.6">
   <diagram name="第 1 页" id="9Yd3pqUPsnyFqQwgOoFY">
-    <mxGraphModel dx="1577" dy="2077" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2102" dy="2380" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -520,10 +520,10 @@
         <mxCell id="PbvdAyPlCqfGMovEDeMH-213" value="8天" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="390" y="2000" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="PbvdAyPlCqfGMovEDeMH-214" value="单词o" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="PbvdAyPlCqfGMovEDeMH-214" value="单词o" style="whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
           <mxGeometry x="455" y="1990" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PbvdAyPlCqfGMovEDeMH-215" value="单词p" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="PbvdAyPlCqfGMovEDeMH-215" value="单词p" style="whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
           <mxGeometry x="615" y="1990" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PbvdAyPlCqfGMovEDeMH-220" value="单词m" style="whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
@@ -543,6 +543,42 @@
         </mxCell>
         <mxCell id="PbvdAyPlCqfGMovEDeMH-225" value="单词b" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="1630" y="1985" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PbvdAyPlCqfGMovEDeMH-226" value="d+8" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="290" y="2105" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PbvdAyPlCqfGMovEDeMH-227" value="9天" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="390" y="2105" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PbvdAyPlCqfGMovEDeMH-228" value="单词o" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="455" y="2095" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PbvdAyPlCqfGMovEDeMH-229" value="单词p" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="615" y="2095" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PbvdAyPlCqfGMovEDeMH-245" value="单词o" style="whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
+          <mxGeometry x="827" y="2090" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PbvdAyPlCqfGMovEDeMH-246" value="单词p" style="whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
+          <mxGeometry x="987" y="2090" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PbvdAyPlCqfGMovEDeMH-247" value="单词k" style="whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
+          <mxGeometry x="1150" y="2090" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PbvdAyPlCqfGMovEDeMH-248" value="单词L" style="whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
+          <mxGeometry x="1310" y="2090" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PbvdAyPlCqfGMovEDeMH-249" value="单词c" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1470" y="2090" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PbvdAyPlCqfGMovEDeMH-250" value="单词d" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1630" y="2090" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PbvdAyPlCqfGMovEDeMH-251" value="新学单词" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="560" y="1248" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PbvdAyPlCqfGMovEDeMH-252" value="复习单词" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="930" y="1240" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
